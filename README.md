@@ -27,7 +27,7 @@ Make sure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chatbot-ml.git
+   git clone https://github.com/Armaan-Sharma12/ml-chatbot.git
 2. Navigate to the project folder:
    ```bash
    cd chatbot-ml
