@@ -59,6 +59,20 @@ For training the chatbot with new data:
 -Scikit-learn: For model evaluation and preprocessing.
 -Spacy: For advanced NLP tasks like entity recognition.
 
+## Screenshots
+### chatbot interface
+![Screenshot 2024-12-27 093142](https://github.com/user-attachments/assets/a57a6e40-b813-4e8f-8f2a-e64f0220aa95)
+
+### chatbot brain
+![Screenshot 2024-12-27 093918](https://github.com/user-attachments/assets/c85c1087-a27f-4765-a374-19ba505d7c4c)
+
+### chatbot deployment
+![Screenshot 2024-12-27 093247](https://github.com/user-attachments/assets/2e267499-379c-4644-a203-9aa30c1e70f9)
+
+### sample conversation
+![Screenshot 2024-12-27 093414](https://github.com/user-attachments/assets/988ff224-cf24-4f0e-8686-61e9b3e86c17)
+
+
 ## Contributing
 
 1. Fork the repository.
